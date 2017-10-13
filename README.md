@@ -1,0 +1,1 @@
+The folders in this repository follow the examples from https://gobyexample.com
